@@ -12,6 +12,3 @@ npm start
 # Build for prod
 npm run build
 ```
-
-<!-- Images -->
-![WebpageScreenshot](https://github.com/Akumar111/Expense-tracker-react/blob/main/public/expense-tracker.jpeg)
