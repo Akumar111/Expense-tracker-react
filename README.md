@@ -13,3 +13,5 @@ npm start
 npm run build
 ```
 ![WebpageScreenshot](https://github.com/Akumar111/Expense-tracker-react/blob/main/public/expense-tracker.jpeg)
+
+<img src="https://github.com/Akumar111/Expense-tracker-react/blob/main/public/expense-tracker.jpeg" width="200" height="400" />
