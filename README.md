@@ -13,5 +13,5 @@ npm start
 npm run build
 ```
 <p align="center">
-  <img src="https://github.com/Akumar111/Expense-tracker-react/blob/main/public/expense-tracker.jpeg" width="300" height="500" />
+  <img src="https://github.com/Akumar111/Expense-tracker-react/blob/main/public/expense-tracker.jpeg" width="400" height="600" />
 <p/>
