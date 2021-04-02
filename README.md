@@ -12,4 +12,6 @@ npm start
 # Build for prod
 npm run build
 ```
-<img src="https://github.com/Akumar111/Expense-tracker-react/blob/main/public/expense-tracker.jpeg" width="300" height="500" />
+<p align="center">
+  <img src="https://github.com/Akumar111/Expense-tracker-react/blob/main/public/expense-tracker.jpeg" width="300" height="500" />
+<p/>
